@@ -1,4 +1,5 @@
-# Задания к уроку 19
+# Задания к уроку 19 от [4 февраля 2025](https://docs.google.com/document/d/1rpfFRG3I_drJOak4D6g2rTVznYxmEVonNkymOnHbwuo/edit?tab=t.0#heading=h.8j5qzp8ebwhn)
+
 1. **Создание объекта**
 
     Создайте объект user с полями name, age, city. Выведите его в консоль.
